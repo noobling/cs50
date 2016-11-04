@@ -18,3 +18,16 @@ Base-16 uses digits 0-9 and letters A-F thus 16 alphanumeric characters.
 3x16^1 + 2x16^0 = 50
 
 (32)<sub>16</sub> = (50)<sub>10</sub>
+
+#Programming challenge
+1. Your project must have at least two sprites, at least one of which must resemble something other than a cat.
+
+2. Your project must have at least three scripts total (i.e., not necessarily three per sprite).
+
+3. Your project must use at least one condition, one loop, and one variable.
+
+4. Your project must use at least one sound.
+
+5. Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than, say, Pikachu’s Pastry Catch and Ivy’s Hardest Game. As such, your project should probably use a few dozen puzzle pieces overall.
+
+[Solution](https://scratch.mit.edu/projects/128631315/)
