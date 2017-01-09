@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. 3x3 and 9x9
+1. 2D array
+2. You can do this one
+3. You can do this one.
