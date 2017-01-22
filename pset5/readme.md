@@ -1,9 +1,9 @@
-[Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
+## [Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
 
 ## How to run
-`make` to compile
-
-./speller [dictionary] location-to-text
+0. `cd pset5`
+1. `make` to compile
+2. `./speller [dictionary] location-to-text`
 
 ## What it does
 1. Loads specified dicitionary into memory as a [trie](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
