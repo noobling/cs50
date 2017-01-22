@@ -13,3 +13,4 @@
 4. return appropriately if found
 
 ## Take aways
+Learning bubble sort and binary search
