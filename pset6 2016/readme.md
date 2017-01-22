@@ -1,4 +1,4 @@
-[Pset 6](http://cdn.cs50.net/2016/x/psets/6/pset6/pset6.html)
+##[Pset 6](http://cdn.cs50.net/2016/x/psets/6/pset6/pset6.html)
 
 ## How to run
 0. `cd pset6`
