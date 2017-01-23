@@ -10,6 +10,7 @@ Make sure your current working directory is `~/workspace/pset1`
 ### greedy.c
 `make greedy`
 `./greedy`
+`float` where float is a floating point number
 
 ## What it does
 Collection of misc programs
